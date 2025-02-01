@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Documents/mlops/NetworkSecurity/mlruns/0/762f4f8fd7914250b07cc86c19162276/artifacts
+end_time: 1738433678445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 762f4f8fd7914250b07cc86c19162276
+run_name: intrigued-roo-836
+run_uuid: 762f4f8fd7914250b07cc86c19162276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738433674518
+status: 3
+tags: []
+user_id: dell
